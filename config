@@ -1,6 +1,6 @@
 {
   "title": "Nagatoro Anthology Standalone",
-  "description": "<manga description>",
+  "description": "Standalone Nagatoro Anthology released in April 2021",
   "artist": "Many",
   "author": "Many",
   "cover": "https://s2.desu-usergeneratedcontent.xyz/a/image/1619/19/1619190380148.jpg",
@@ -12,6 +12,14 @@
         "S.T.A.L.K.E.R.": "/proxy/api/imgur/chapter/mZg7ueP/"
       },
       "last_updated": "1622674154"
+    },
+    "2": {
+      "title": "Were you hoping for it, Senpai? by Kimidori Hana",
+      "volume": "",
+      "groups": {
+        "S.T.A.L.K.E.R.": "/proxy/api/imgur/chapter/kwYYEF8/"
+      },
+      "last_updated": "1617647881"
     }
   }
 }
