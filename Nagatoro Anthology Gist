@@ -3,7 +3,7 @@
   "description": "<manga description>",
   "artist": "Many",
   "author": "Many",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "",
   "chapters": {
     "<1>": {
       "title": "Chapter 1",
@@ -12,6 +12,6 @@
         "S.T.A.L.K.E.R.": "/proxy/api/imgur/chapter/mZg7ueP/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
